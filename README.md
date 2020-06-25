@@ -6,4 +6,4 @@ This repository focusses on sentimental analysis of twitter tweets. I have parti
 2. Install requirements using pip install requirements.txt
 3. Run given jupyter notebook
 
-Looking forward to try some other techniques and if you like it contribute go ahead and if you like it, press start right there.
+Looking forward to try some other techniques and if you like it contribute go ahead and if you like it, press star symbol right there.
