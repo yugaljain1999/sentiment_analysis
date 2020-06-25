@@ -1,0 +1,5 @@
+pytorch==1.4
+tranformers
+numpy
+pandas
+spacy
